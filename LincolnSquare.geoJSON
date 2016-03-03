@@ -1,0 +1,1007 @@
+var lincolnsquare = {
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.2678193449974,
+                            37.800398116178805,
+                            0
+                        ],
+                        [
+                            -122.26820290088654,
+                            37.79976654733535,
+                            0
+                        ],
+                        [
+                            -122.26823776960373,
+                            37.79978138290704,
+                            0
+                        ],
+                        [
+                            -122.26784616708755,
+                            37.80041083227461,
+                            0
+                        ],
+                        [
+                            -122.2678193449974,
+                            37.800398116178805,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Pavement Strip 1",
+                "ID": "1",
+                "Description": "Separates space between Alice stree Expansion and Rest of Recreational Space",
+                "Area": "3446",
+                "CurrentSurfaceType": "Interlocking Porous Concrete Paver",
+                "ImprovedSurfaceType": "Interlocking Porous Concrete Paver",
+                "CurrentNumberofTrees": "3",
+                "ImprovedNumberofTrees": "8",
+                "Prop84": "0",
+                "Future": "1"
+ 
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.26854890584946,
+                            37.80068634714493,
+                            0
+                        ],
+                        [
+                            -122.2687017917633,
+                            37.80043202576261,
+                            0
+                        ],
+                        [
+                            -122.26870447397232,
+                            37.8002879099239,
+                            0
+                        ],
+                        [
+                            -122.26807683706284,
+                            37.80004842268773,
+                            0
+                        ],
+                        [
+                            -122.2680526971817,
+                            37.800088690507415,
+                            0
+                        ],
+                        [
+                            -122.26864814758301,
+                            37.80031758085485,
+                            0
+                        ],
+                        [
+                            -122.26864278316498,
+                            37.800425667716816,
+                            0
+                        ],
+                        [
+                            -122.26851671934128,
+                            37.800667273071646,
+                            0
+                        ],
+                        [
+                            -122.26854890584946,
+                            37.80068634714493,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Pavement Strip 2",
+                "ID": "2",
+                "Description": "Pathway between bus station and Alice street expansion - south of active play Area, North of Junk Ship playground",
+                "Area": "5370",
+                "CurrentSurfaceType": "Other Asphalt",
+                "ImprovedSurfaceType": "Interlocking Porous Concrete Paver",
+                "CurrentNumberofTrees": "0",
+                "ImprovedNumberofTrees": "3",
+                "Prop84": "1",
+                "Future": "1"                
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.2689163684845,
+                            37.80019270456832,
+                            0
+                        ],
+                        [
+                            -122.26900219917297,
+                            37.80008706787365,
+                            0
+                        ],
+                        [
+                            -122.26879298686981,
+                            37.79999805476725,
+                            0
+                        ],
+                        [
+                            -122.2686830163002,
+                            37.80016760344895,
+                            0
+                        ],
+                        [
+                            -122.2689163684845,
+                            37.80019270456832,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Forecourt to the recreation centre",
+                "ID": "3",
+                "Description": "Forecourt to the recreation centre",
+                "Area": "3789",
+                "CurrentSurfaceType": "Other Concrete",
+                "ImprovedSurfaceType": "Interlocking Porous Concrete Paver",
+                "CurrentNumberofTrees": "1",
+                "ImprovedNumberofTrees": "1",
+                "Prop84": "0",
+                "Future": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.26869374513626,
+                            37.80014501905715,
+                            0
+                        ],
+                        [
+                            -122.2685395181179,
+                            37.80008143832769,
+                            0
+                        ],
+                        [
+                            -122.26862132549286,
+                            37.799925665309246,
+                            0
+                        ],
+                        [
+                            -122.26879298686981,
+                            37.79999348489506,
+                            0
+                        ],
+                        [
+                            -122.26869374513626,
+                            37.80014501905715,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Future Organic Garden",
+                "ID": "4",
+                "Description": "Garden to east of the forecourt",
+                "Area": "3258",
+                "CurrentSurfaceType": "Managed Turf",
+                "ImprovedSurfaceType": "Rain Garden",
+                "CurrentNumberofTrees": "1",
+                "ImprovedNumberofTrees": "0",
+                "Prop84": "0",
+                "Future": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.26854220032692,
+                            37.80013947230299,
+                            0
+                        ],
+                        [
+                            -122.26851269602776,
+                            37.80012887551774,
+                            0
+                        ],
+                        [
+                            -122.26847916841507,
+                            37.80019139652866,
+                            0
+                        ],
+                        [
+                            -122.26827800273895,
+                            37.80011933840972,
+                            0
+                        ],
+                        [
+                            -122.26829007267952,
+                            37.80010026419003,
+                            0
+                        ],
+                        [
+                            -122.26845771074295,
+                            37.800161725547035,
+                            0
+                        ],
+                        [
+                            -122.26859584450722,
+                            37.79991799917537,
+                            0
+                        ],
+                        [
+                            -122.26861730217934,
+                            37.799926476627874,
+                            0
+                        ],
+                        [
+                            -122.26853147149086,
+                            37.800079070606756,
+                            0
+                        ],
+                        [
+                            -122.26857036352158,
+                            37.80009390611568,
+                            0
+                        ],
+                        [
+                            -122.26854220032692,
+                            37.80013947230299,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Green Strip 1",
+                "ID": "5",
+                "Description": "Green Strip between organic garden and future hard court",
+                "Area": "1432",
+                "CurrentSurfaceType": "Other Asphalt",
+                "ImprovedSurfaceType": "Managed Turf",
+                "CurrentNumberofTrees": "0",
+                "ImprovedNumberofTrees": "1",
+                "Prop84": "0",
+                "Future": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.26845502853394,
+                            37.80015854651258,
+                            0
+                        ],
+                        [
+                            -122.268286049366,
+                            37.80009814483195,
+                            0
+                        ],
+                        [
+                            -122.26827330887318,
+                            37.80011770749792,
+                            0
+                        ],
+                        [
+                            -122.26826123893261,
+                            37.800113998622166,
+                            0
+                        ],
+                        [
+                            -122.26841814815998,
+                            37.79985596638045,
+                            0
+                        ],
+                        [
+                            -122.26859048008919,
+                            37.79992011853859,
+                            0
+                        ],
+                        [
+                            -122.26845502853394,
+                            37.80015854651258,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Future Hardcourt",
+                "ID": "6",
+                "Description": "Future Hardcourt",
+                "Area": "1432",
+                "CurrentSurfaceType": "Other Asphalt",
+                "ImprovedSurfaceType": "Other Asphalt",
+                "CurrentNumberofTrees": "0",
+                "ImprovedNumberofTrees": "0",
+                "Prop84": "0",
+                "Future": "1"
+                
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.26832896471024,
+                            37.7999984935412,
+                            0
+                        ],
+                        [
+                            -122.26825654506683,
+                            37.80011187926449,
+                            0
+                        ],
+                        [
+                            -122.26817406713963,
+                            37.800083797769815,
+                            0
+                        ],
+                        [
+                            -122.26817071437836,
+                            37.80008021307353,
+                            0
+                        ],
+                        [
+                            -122.26832896471024,
+                            37.7999984935412,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "New Table Seating Area by Ship",
+                "ID": "7",
+                "Description": "Greened Table Seating Area by Ship",
+                "Area": "643",
+                "CurrentSurfaceType": "Other Asphalt",
+                "ImprovedSurfaceType": "Managed Turf",
+                "CurrentNumberofTrees": "0",
+                "ImprovedNumberofTrees": "0",
+                "Prop84": "0",
+                "Future": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.26816534996033,
+                            37.80007809371491,
+                            0
+                        ],
+                        [
+                            -122.26807951927185,
+                            37.80004577348829,
+                            0
+                        ],
+                        [
+                            -122.26824648678303,
+                            37.799784437776026,
+                            0
+                        ],
+                        [
+                            -122.26841412484646,
+                            37.79985384701539,
+                            0
+                        ],
+                        [
+                            -122.2683236002922,
+                            37.799996374180225,
+                            0
+                        ],
+                        [
+                            -122.26816534996033,
+                            37.80007809371491,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Junk Ship Playground",
+                "ID": "8",
+                "Description": "Junk Ship Playground",
+                "Area": "643",
+                "CurrentSurfaceType": "Other Asphalt",
+                "ImprovedSurfaceType": "Other Asphalt",
+                "CurrentNumberofTrees": "1",
+                "ImprovedNumberofTrees": "1",
+                "Prop84": "0",
+                "Future": "1"
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.26866021752357,
+                            37.80013837123083,
+                            0
+                        ],
+                        [
+                            -122.26857975125313,
+                            37.800103401833255,
+                            0
+                        ],
+                        [
+                            -122.26851269602776,
+                            37.800207250298854,
+                            0
+                        ],
+                        [
+                            -122.26870715618134,
+                            37.80028155186574,
+                            0
+                        ],
+                        [
+                            -122.26870983839035,
+                            37.800423548368094,
+                            0
+                        ],
+                        [
+                            -122.26876080036163,
+                            37.800423548368094,
+                            0
+                        ],
+                        [
+                            -122.2687554359436,
+                            37.80020101641468,
+                            0
+                        ],
+                        [
+                            -122.26866021752357,
+                            37.80013837123083,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Lower Roof Area",
+                "ID": "9",
+                "Description": "Lower roof of the current rec centre",
+                "Area": "3373",
+                "CurrentSurfaceType": "Grey Roof",
+                "ImprovedSurfaceType": "Green Roof",
+                "CurrentNumberofTrees": "4",
+                "ImprovedNumberofTrees": "4",
+                "Prop84": "0",
+                "Future": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.26825654506683,
+                            37.800480770762036,
+                            0
+                        ],
+                        [
+                            -122.2680339217186,
+                            37.80040235487761,
+                            0
+                        ],
+                        [
+                            -122.26807415485382,
+                            37.80033665501846,
+                            0
+                        ],
+                        [
+                            -122.26829677820206,
+                            37.8004171903216,
+                            0
+                        ],
+                        [
+                            -122.26825654506683,
+                            37.800480770762036,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Existing Historic Clubhouse",
+                "ID": "10",
+                "Description": "Existing Historic Clubhouse",
+                "Area": "1849",
+                "CurrentSurfaceType": "Grey Roof",
+                "ImprovedSurfaceType": "Grey Roof",
+                "CurrentNumberofTrees": "0",
+                "ImprovedNumberofTrees": "0",
+                "Prop84": "0",
+                "Future": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.26843893527985,
+                            37.80063548293851,
+                            0
+                        ],
+                        [
+                            -122.26857304573059,
+                            37.800391758130075,
+                            0
+                        ],
+                        [
+                            -122.26863741874695,
+                            37.80040447422692,
+                            0
+                        ],
+                        [
+                            -122.26864077150822,
+                            37.800321695377534,
+                            0
+                        ],
+                        [
+                            -122.2680701315403,
+                            37.80010556258488,
+                            0
+                        ],
+                        [
+                            -122.2679440677166,
+                            37.8002782900492,
+                            0
+                        ],
+                        [
+                            -122.2683034837246,
+                            37.80040651078911,
+                            0
+                        ],
+                        [
+                            -122.26823106408119,
+                            37.80055592475897,
+                            0
+                        ],
+                        [
+                            -122.26785957813263,
+                            37.80041604786005,
+                            0
+                        ],
+                        [
+                            -122.26795747876167,
+                            37.80028994648929,
+                            0
+                        ],
+                        [
+                            -122.26805806159973,
+                            37.800327035150104,
+                            0
+                        ],
+                        [
+                            -122.2680151462555,
+                            37.8004096898129,
+                            0
+                        ],
+                        [
+                            -122.26824179291725,
+                            37.80048492666913,
+                            0
+                        ],
+                        [
+                            -122.26824447512627,
+                            37.80056228279352,
+                            0
+                        ],
+                        [
+                            -122.26843893527985,
+                            37.80063548293851,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Future Active Total Play Area",
+                "ID": "11",
+                "Description": "Future Active Total Play Area",
+                "Area": "13283",
+                "CurrentSurfaceType": "Other Asphalt",
+                "ImprovedSurfaceType": "Other Asphalt",
+                "CurrentNumberofTrees": "3",
+                "ImprovedNumberofTrees": "3",
+                "Prop84": "1",
+                "Future": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.26850934326649,
+                            37.800665559385145,
+                            0
+                        ],
+                        [
+                            -122.26844564080238,
+                            37.800635358758306,
+                            0
+                        ],
+                        [
+                            -122.26858176290989,
+                            37.80039905167288,
+                            0
+                        ],
+                        [
+                            -122.2686367481947,
+                            37.80042448386187,
+                            0
+                        ],
+                        [
+                            -122.26850934326649,
+                            37.800665559385145,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Green Strip 2",
+                "ID": "12",
+                "Description": "Green strip between Pavement Strip 2 and Future Active Total Play Area",
+                "Area": "3258",
+                "CurrentSurfaceType": "Other Asphalt",
+                "ImprovedSurfaceType": "Managed Turf",
+                "CurrentNumberofTrees": "0",
+                "ImprovedNumberofTrees": "3",
+                "Prop84": "1",
+                "Future": "1"
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.26869441568851,
+                            37.80046528131344,
+                            0
+                        ],
+                        [
+                            -122.26891502737999,
+                            37.80045680392276,
+                            0
+                        ],
+                        [
+                            -122.26892173290253,
+                            37.80051565719401,
+                            0
+                        ],
+                        [
+                            -122.2688265144825,
+                            37.80068838369935,
+                            0
+                        ],
+                        [
+                            -122.26859718561172,
+                            37.80062798245199,
+                            0
+                        ],
+                        [
+                            -122.26869441568851,
+                            37.80046528131344,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "New Recreation Centre Building",
+                "ID": "13",
+                "Description": "New Recreation Centre Building",
+                "Area": "3600",
+                "CurrentSurfaceType": "Other Asphalt",
+                "ImprovedSurfaceType": "Grey Roof",
+                "CurrentNumberofTrees": "0",
+                "ImprovedNumberofTrees": "0",
+                "Prop84": "1",
+                "Future": "1"               
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.26860724389553,
+                            37.800635358758306,
+                            0
+                        ],
+                        [
+                            -122.26856164634228,
+                            37.80070052851654,
+                            0
+                        ],
+                        [
+                            -122.26887479424477,
+                            37.80081236505236,
+                            0
+                        ],
+                        [
+                            -122.26907193660736,
+                            37.80050188144306,
+                            0
+                        ],
+                        [
+                            -122.2689351439476,
+                            37.800516716867044,
+                            0
+                        ],
+                        [
+                            -122.268827855587,
+                            37.80069368205205,
+                            0
+                        ],
+                        [
+                            -122.26860724389553,
+                            37.800635358758306,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Future Bioswale Area",
+                "ID": "14",
+                "Description": "Bioswale Area to the Northwest of the New Recreation Centre Building",
+                "Area": "5759",
+                "CurrentSurfaceType": "Other Asphalt",
+                "ImprovedSurfaceType": "Vegetated Swale",
+                "CurrentNumberofTrees": "0",
+                "ImprovedNumberofTrees": "2",
+                "Prop84": "1",
+                "Future": "1" 
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.26895123720169,
+                            37.80050196423002,
+                            0
+                        ],
+                        [
+                            -122.26894319057465,
+                            37.80020525512485,
+                            0
+                        ],
+                        [
+                            -122.26903438568115,
+                            37.800101406656445,
+                            0
+                        ],
+                        [
+                            -122.2692596912384,
+                            37.80017982286034,
+                            0
+                        ],
+                        [
+                            -122.26906925439835,
+                            37.800493486843564,
+                            0
+                        ],
+                        [
+                            -122.26895123720169,
+                            37.80050196423002,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Future Terrace Area",
+                "ID": "15",
+                "Description": "Future Terrace/Deck for Exercise and Social Events",
+                "Area": "8415",
+                "CurrentSurfaceType": "Managed Turf",
+                "ImprovedSurfaceType": "Interlocking Porous Concrete Paver",
+                "CurrentNumberofTrees": "1",
+                "ImprovedNumberofTrees": "1",
+                "Prop84": "1",
+                "Future": "1" 
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.26894050836563,
+                            37.80044686120062,
+                            0
+                        ],
+                        [
+                            -122.26877354085445,
+                            37.80045215957064,
+                            0
+                        ],
+                        [
+                            -122.26876482367516,
+                            37.80020195191128,
+                            0
+                        ],
+                        [
+                            -122.26892039179802,
+                            37.800194004329214,
+                            0
+                        ],
+                        [
+                            -122.26894050836563,
+                            37.80044686120062,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Current Gym Roof",
+                "ID": "16",
+                "Description": "Current Gym Roof",
+                "Area": "4272",
+                "CurrentSurfaceType": "Grey Roof",
+                "ImprovedSurfaceType": "Grey Roof",
+                "CurrentNumberofTrees": "0",
+                "ImprovedNumberofTrees": "0",
+                "Prop84": "0",
+                "Future": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.26802587509155,
+                            37.800046303328195,
+                            0
+                        ],
+                        [
+                            -122.26781398057938,
+                            37.79997424506771,
+                            0
+                        ],
+                        [
+                            -122.26799368858337,
+                            37.79968813069269,
+                            0
+                        ],
+                        [
+                            -122.26817339658737,
+                            37.7997686667029,
+                            0
+                        ],
+                        [
+                            -122.26802587509155,
+                            37.800046303328195,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Alice Street South Turf",
+                "ID": "17",
+                "Description": "Alice Street South Turf",
+                "Area": "4272",
+                "CurrentSurfaceType": "Managed Turf",
+                "ImprovedSurfaceType": "Managed Turf",
+                "CurrentNumberofTrees": "0",
+                "ImprovedNumberofTrees": "2",
+                "Prop84": "0",
+                "Future": "1"
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.26781398057938,
+                            37.80038751943065,
+                            0
+                        ],
+                        [
+                            -122.26761549711227,
+                            37.80030698409517,
+                            0
+                        ],
+                        [
+                            -122.26782068610191,
+                            37.79998206849207,
+                            0
+                        ],
+                        [
+                            -122.26801782846451,
+                            37.80004988802614,
+                            0
+                        ],
+                        [
+                            -122.26781398057938,
+                            37.80038751943065,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Alice Street North Hard Court",
+                "ID": "18",
+                "Description": "Alice Street North Hard Court",
+                "Area": "8485",
+                "CurrentSurfaceType": "Other Asphalt",
+                "ImprovedSurfaceType": "Other Asphalt",
+                "CurrentNumberofTrees": "0",
+                "ImprovedNumberofTrees": "2",
+                "Prop84": "0",
+                "Future": "1"
+            }
+        }
+    ]
+}
